@@ -1,0 +1,94 @@
+body {
+  background: #cbc3e3;
+  color: #fff;
+  padding: 25px;
+  font-family: times new roman;
+  text-shadow: rgb(0, 0, 0) 3px 0px 0px, rgb(0, 0, 0) 2.83487px 0.981584px 0px, rgb(0, 0, 0) 2.35766px 1.85511px 0px, rgb(0, 0, 0) 1.62091px 2.52441px 0px, rgb(0, 0, 0) 0.705713px 2.91581px 0px, rgb(0, 0, 0) -0.287171px 2.98622px 0px, rgb(0, 0, 0) -1.24844px 2.72789px 0px, rgb(0, 0, 0) -2.07227px 2.16926px 0px, rgb(0, 0, 0) -2.66798px 1.37182px 0px, rgb(0, 0, 0) -2.96998px 0.42336px 0px, rgb(0, 0, 0) -2.94502px -0.571704px 0px, rgb(0, 0, 0) -2.59586px -1.50383px 0px, rgb(0, 0, 0) -1.96093px -2.27041px 0px, rgb(0, 0, 0) -1.11013px -2.78704px 0px, rgb(0, 0, 0) -0.137119px -2.99686px 0px, rgb(0, 0, 0) 0.850987px -2.87677px 0px, rgb(0, 0, 0) 1.74541px -2.43999px 0px, rgb(0, 0, 0) 2.44769px -1.73459px 0px, rgb(0, 0, 0) 2.88051px -0.838247px 0px;
+}
+
+.susanna {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #ffebbb;
+}
+
+h1{
+  font-size: 120px;
+  color: #f70776;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h4{
+
+}
+
+p{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+section {
+  text-align: center;
+}
+
+.song {
+  border: 40px solid #fdffab;
+  padding: 50px;
+  margin: 150px auto;
+  max-width: 900px;
+  max-height: 700px;
+}
+
+.biking-home {
+  background-image: url(https://www.commonsense.org/sites/default/files/png/2021-07/whale-rider-1-sel.png);
+}
+
+.blue-banisters {
+  background-image: url(https://www.nme.com/wp-content/uploads/2021/07/lana-del-rey-blue-banister@2000x1270.jpg);
+  background-size: 1100px;
+  
+}
+
+.paradise {
+  background-image: url('https://i1.sndcdn.com/artworks-000420469914-cs5k2q-t500x500.jpg')
+}
+
+.womankind {
+  background-image: url(https://pbs.twimg.com/profile_images/1240884642133053441/1P-ZR0vk_400x400.jpg);
+}
+
+.yosemite {
+  background-image: url(https://i.pinimg.com/originals/ac/8d/8e/ac8d8e03a417b2cfc9e55266275b18b2.jpg);
+  background-size: 800px;
+
+}
+
+.venice-bitch {
+  background-image: url(https://media.pitchfork.com/photos/5d5ec71f8aeb9e0008ccf296/1:1/w_600/LanaDelRey_NormalFuckingRockwell.jpg);
+  background-size: 800px;
+
+}
+
+.slow-burn {
+background-image: url(https://images.genius.com/8ad01bf0ff4eb8420c7c8ecd4e3ce737.1000x1000x1.jpg);
+}
+
+.speed-of-sound{
+  background-image: url(https://pics.filmaffinity.com/Coldplay_Speed_of_Sound_Music_Video-658336053-large.jpg);
+}
+
+.bollicine {
+  background-image: url(https://m.media-amazon.com/images/I/6116NId5L4L._AC_.jpg);
+}
+
+footer {
+  text-align: center;
+  color: #fdffcd;
+}
